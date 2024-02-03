@@ -3,7 +3,7 @@ tPythonModule02spr24
 
 Post any and all code you completed for Module 02 here!
 
-# Video 03
+# Video 03 (Exercise 3.1)
 
 `sh = input("Enter Hours: ")`
 `sr = input("Enter Rate: ")`
@@ -68,7 +68,7 @@ Pay: 550.0
 
 ---
 
-# Video 04
+# Video 04 (Exercise 3.2)
 
 `sh = input("Enter Hours: ")`
 `sr = input("Enter Rate: ")`
@@ -129,7 +129,7 @@ Enter Rate: ten
 Error, please enter numeric input
 (.venv) PS C:\Users\Brendan\PycharmProjects\CIT95SPRING2024\CIT95python>
 
-# Video 3 Functions
+# Video 3 Functions (Exercise 4.6)
 
 `def computepay(hours, rate) :`
     `# print("In computepay", hours, rate)`
